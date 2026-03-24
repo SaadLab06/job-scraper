@@ -29,7 +29,7 @@ An open-source, self-hostable job aggregation platform. Scrapes 10 job boards, d
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/jobscraper.git
+git clone https://github.com/SaadLab06/job-scraper.git
 cd jobscraper
 
 # 2. Configure environment
